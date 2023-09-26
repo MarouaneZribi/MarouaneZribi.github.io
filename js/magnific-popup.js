@@ -1,4 +1,4 @@
-/* M4lal0 | @m4lal0 */
+/* MarouaneZribi | @MarouaneZribi */
 ;(function (factory) { 
 if (typeof define === 'function' && define.amd) { 
  // AMD. Register as an anonymous module. 
@@ -1816,7 +1816,7 @@ $.magnificPopup.registerModule('gallery', {
 });
 
 /*>>gallery*/
-/* M4lal0 | @m4lal0 */
+/* MarouaneZribi | @MarouaneZribi */
 /*>>retina*/
 
 var RETINA_NS = 'retina';

@@ -1,4 +1,4 @@
-/* M4lal0 | @m4lal0 */
+/* MarouaneZribi | @MarouaneZribi */
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
 		define( ["jquery"], factory );

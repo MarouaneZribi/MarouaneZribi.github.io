@@ -1,4 +1,4 @@
-/* M4lal0 | @m4lal0 */
+/* MarouaneZribi | @MarouaneZribi */
 /* jshint browser: true, strict: true, undef: true, unused: true */
 
 ( function( window, factory ) {

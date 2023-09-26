@@ -1,4 +1,4 @@
-/* M4lal0 | @m4lal0 */
+/* MarouaneZribi | @MarouaneZribi */
 /* jshint unused: true, undef: true, strict: true */
 
 ( function( global, factory ) {

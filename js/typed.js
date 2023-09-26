@@ -1,4 +1,4 @@
-/* M4lal0 | @m4lal0 */
+/* MarouaneZribi | @MarouaneZribi */
 ! function($) {
 
     "use strict";
@@ -372,7 +372,7 @@
     };
 
     $.fn.typed.defaults = {
-        strings: ["hello", "world!"],  /* M4lal0 | @m4lal0 */
+        strings: ["hello", "world!"],  /* MarouaneZribi | @MarouaneZribi */
         stringsElement: null,
         // typing speed
         typeSpeed: 0,
