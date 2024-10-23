@@ -18,6 +18,13 @@
 */
 
 /* 1. Basic */
+
+.box-item img {
+    width: 150px; /* or any desired width */
+    height: auto; /* maintain aspect ratio */
+    object-fit: contain; /* or "cover" if you want to crop */
+}
+
 html {
 	margin-right: 0!important;
 }
